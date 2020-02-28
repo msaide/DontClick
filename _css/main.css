@@ -1,0 +1,21 @@
+    header#header{
+    width: 90%;
+    height: auto;
+    padding: 16px;
+    margin-top: 10%;
+    text-align: center;
+}   
+a.lang{text-align: center;width: 100%;}
+footer{
+    width: 90%;
+    float: left;
+    text-align: center;
+    margin-top: 10%;
+    color: #C0C0C0;
+}
+div.res{
+    width: 100%;
+    text-align: center;
+    height: 30%;
+    float: left;
+}
